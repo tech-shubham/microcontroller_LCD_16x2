@@ -1,5 +1,5 @@
 #include "lcd4_st.h"
-#include "pins.h"
+#include "main.h"
 
 
 /*void delay(unsigned int x)
